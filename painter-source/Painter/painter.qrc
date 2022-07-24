@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="Painter">
+    <file>Resources/img/fon.bmp</file>
+    <file>Resources/img/print.ico</file>
+    <file>Resources/img/move.ico</file>
+    <file>Resources/img/dialog-close.ico</file>
+    <file>Resources/img/new.ico</file>
+    <file>Resources/img/savex.ico</file>
+    <file>Resources/img/fileopen.ico</file>
+    <file>Resources/img/filesaveas.ico</file>
+    <file>Resources/img/selection-deselect.png</file>
+    <file>Resources/img/layer-shape-curve.ico</file>
+    <file>Resources/img/chart_line.ico</file>
+    <file>Resources/img/kblackbox.ico</file>
+    <file>Resources/img/shape_handles.ico</file>
+    <file>Resources/img/help.ico</file>
+    <file>Resources/img/edit-paste.ico</file>
+    <file>Resources/img/page_copy.ico</file>
+    <file>Resources/img/selection-select.ico</file>
+    <file>Resources/img/text_left.ico</file>
+    <file>Resources/img/kcolorchooser.ico</file>
+    <file>Resources/img/valve.ico</file>
+    <file>Resources/img/cut.ico</file>
+    <file>Resources/img/editbrush.ico</file>
+    <file>Resources/img/eraser.ico</file>
+    <file>Resources/img/paint-brush.ico</file>
+    <file>Resources/img/paintcan.ico</file>
+  </qresource>
+</RCC>
